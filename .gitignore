@@ -2,6 +2,6 @@
 *
 # Now, whitelist anything that's a directory
 !*/
-!*/data/bis/user/save/0000000000000001/0/*
+!data/bis/user/save/0000000000000001/0/*
 !.gitignore
 
